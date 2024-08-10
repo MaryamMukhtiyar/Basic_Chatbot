@@ -79,6 +79,129 @@
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
       ]
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "What's the weather like?",
+        "Is it going to rain today?",
+        "How's the weather?",
+        "What's the forecast?"
+      ],
+      "responses": [
+        "It's sunny and warm today.",
+        "Expect some rain later in the day.",
+        "It's looking cloudy today.",
+        "The forecast shows clear skies."
+      ]
+    },
+    {
+      "tag": "hours",
+      "patterns": [
+        "What are your hours?",
+        "When are you open?",
+        "Are you open today?",
+        "What time do you close?"
+      ],
+      "responses": [
+        "We're open from 9 AM to 9 PM, Monday through Saturday.",
+        "Our hours are 9 AM - 9 PM on weekdays.",
+        "We open at 9 AM and close at 9 PM."
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where are you located?",
+        "What's your address?",
+        "How do I find you?",
+        "Where's your shop?"
+      ],
+      "responses": [
+        "We're located at 123 Main Street.",
+        "Our shop is at 123 Main Street, downtown.",
+        "You can find us at 123 Main Street, near the central park."
+      ]
+    },
+    {
+      "tag": "support",
+      "patterns": [
+        "I need help",
+        "Can you assist me?",
+        "I have a problem",
+        "Support"
+      ],
+      "responses": [
+        "Sure, I'm here to help! What's the issue?",
+        "How can I assist you today?",
+        "Let me know what's going on, and I'll do my best to help."
+      ]
+    },
+    {
+      "tag": "menu",
+      "patterns": [
+        "Can I see the menu?",
+        "What's on the menu?",
+        "What do you have today?"
+      ],
+      "responses": [
+        "You can view our full menu on our website.",
+        "Today's special is roasted chicken with garlic sauce.",
+        "We have a variety of dishes, including pasta, salads, and desserts."
+      ]
+    },
+    {
+      "tag": "reservation",
+      "patterns": [
+        "Can I make a reservation?",
+        "I'd like to reserve a table",
+        "Is there a way to book a table?"
+      ],
+      "responses": [
+        "Sure, how many people?",
+        "We can reserve a table for you. What time works best?",
+        "Please let us know the date and time you'd like to reserve."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How can I contact you?",
+        "What's your phone number?",
+        "Do you have an email?",
+        "How do I get in touch?"
+      ],
+      "responses": [
+        "You can reach us at 555-1234 or email us at support@example.com.",
+        "Feel free to call us at 555-1234.",
+        "Our email address is support@example.com."
+      ]
+    },
+    {
+      "tag": "news",
+      "patterns": [
+        "What's the latest news?",
+        "Any updates today?",
+        "Tell me the news"
+      ],
+      "responses": [
+        "Here's the latest update: We're launching a new product next week!",
+        "Today's headline: We're opening a new store downtown.",
+        "Check out our blog for the latest news and updates."
+      ]
+    },
+    {
+      "tag": "price",
+      "patterns": [
+        "How much does this cost?",
+        "What's the price of this?",
+        "Can you tell me the price?"
+      ],
+      "responses": [
+        "This item costs $19.99.",
+        "The price is $19.99.",
+        "It is priced at $19.99."
+      ]
     }
   ]
 }
